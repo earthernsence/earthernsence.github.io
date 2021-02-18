@@ -19,6 +19,7 @@ app.component("body-component", {
         <a href="babamakecash.html">Baba Make Cash hub</a><br>
         <a href="https://earthernsence.github.io/rainbow-draw/" target="_blank">Rainbow Drawing Canvas</a><br>
         <div>It has a (hopefully) comprehensive README that you can use to customize it.</div>
+        <a href="https://earthernsence.github.io/rot13/" target="_blank">ROT13 encoder/decoder</a><br>
     </div>
   `
 });
