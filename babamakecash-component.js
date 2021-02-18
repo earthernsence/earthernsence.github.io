@@ -1,6 +1,8 @@
 "use strict";
 
-Vue.component("babamakecash-component", {
+let app2 = Vue.createApp({});
+
+app2.component("babamakecash-component", {
 template: `
   <div style="text-align:center">
   <h1 style="color:white">baba make cash hub</h1>
@@ -25,4 +27,6 @@ template: `
     <a href="https://discord.gg/NbnRGsB" target="_blank"><img src="resources/heretext.gif" alt="discord" style="width:50px; height:50px;"></a>
 </div>
 `
-})
+});
+
+app2.mount("#vue2");
