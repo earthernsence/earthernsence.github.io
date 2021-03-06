@@ -22,7 +22,7 @@ app.component("body-component", {
         <div style="color:white">you can join my discord </div>
         <a href="https://discord.gg/NbnRGsB" target="_blank">here</a><br>
         <a href="https://earthernsence.github.io/rot13/" target="_blank">ROT13 encoder/decoder</a><br>
-        <a href="https://earthernsence.github.io/accent-copier/ target="_blank">Accent copier for lazy bums</a><br>
+        <a href="https://earthernsence.github.io/accent-copier/" target="_blank">Accent copier for lazy bums</a><br>
         <a href="earthsdevdiary.html">my development diary</a><br>
         <a href="https://earthernsence.github.io/earths-resource-pack/" target="_blank">Earth's Minecraft resource pack</a><br>
         <a href="babamakecash.html">Baba Make Cash hub</a><br>
