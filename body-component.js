@@ -23,9 +23,7 @@ app.component("body-component", {
         <a href="https://discord.gg/NbnRGsB" target="_blank">here</a><br>
         <a href="https://earthernsence.github.io/rot13/" target="_blank">ROT13 encoder/decoder</a><br>
         <a href="https://earthernsence.github.io/accent-copier/" target="_blank">Accent copier for lazy bums</a><br>
-        <a href="earthsdevdiary.html">my development diary</a><br>
         <a href="https://earthernsence.github.io/earths-resource-pack/" target="_blank">Earth's Minecraft resource pack</a><br>
-        <a href="babamakecash.html">Baba Make Cash hub</a><br>
         <a href="https://earthernsence.github.io/rainbow-draw/" target="_blank">Rainbow Drawing Canvas</a><br>
         <div>It has a (hopefully) comprehensive README that you can use to customize it.</div>
     </div>
