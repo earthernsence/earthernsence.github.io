@@ -12,6 +12,7 @@ app.component("body-component", {
         <!--These are heavily divided because style points-->
         <div>hi everybody, i'm earth and i've coded some projects of my own and also</div>
         <div>have hosted some community things (like the save archive). </div>
+        <div>I also created ADAB, a superfluous but useful bot for use on the AD discord</div>
         <div>i made bar notation and blind notation for antimatter dimensions</div>
         <div>(you can find the code for each of those notations in the babamakecash hub). </div>
         <div>i'm a stereotypical teenage male that makes things, basically</div>
@@ -21,6 +22,7 @@ app.component("body-component", {
         <img src="https://cdn.discordapp.com/attachments/351477847090659341/759235360332316672/Corporate_Allows_No_Personality.gif" width="530" height="439.5"><br><div>created challenge modals for when you start a challenge!</div><br>
         <div style="color:white">you can join my discord </div>
         <a href="https://discord.gg/NbnRGsB" target="_blank">here</a><br>
+        <a href="https://github.com/earthernsence/ADAnswers-Bot/" target="_blank">ADAnswersBot</a><br>
         <a href="https://earthernsence.github.io/rot13/" target="_blank">ROT13 encoder/decoder</a><br>
         <a href="https://earthernsence.github.io/accent-copier/" target="_blank">Accent copier for lazy bums</a><br>
         <a href="https://earthernsence.github.io/earths-resource-pack/" target="_blank">Earth's Minecraft resource pack</a><br>
